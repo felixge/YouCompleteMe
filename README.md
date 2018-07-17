@@ -219,7 +219,7 @@ The following additional language support options are available:
 - TypeScript support: install [Node.js and npm][npm-install] then install the
   TypeScript SDK with `npm install -g typescript`.
 - JavaScript support: install [Node.js and npm][npm-install] and add
-  `--js-completer` when calling `./install.py`.
+  `--tern-completer` when calling `./install.py`.
 - Rust support: install [Rust][rust-install] and add
   `--rust-completer` when calling `./install.py`.
 - Java support: install [JDK8 (version 8 required)][jdk-install] and add
@@ -293,7 +293,7 @@ The following additional language support options are available:
 - TypeScript support: install [Node.js and npm][npm-install] then install the
   TypeScript SDK with `npm install -g typescript`.
 - JavaScript support: install [Node.js and npm][npm-install] and add
-  `--js-completer` when calling `./install.py`.
+  `--tern-completer` when calling `./install.py`.
 - Rust support: install [Rust][rust-install] and add `--rust-completer` when
   calling `./install.py`.
 - Java support: install [JDK8 (version 8 required)][jdk-install] and add
@@ -362,7 +362,7 @@ The following additional language support options are available:
 - TypeScript support: install [Node.js and npm][npm-install] then install the
   TypeScript SDK with `npm install -g typescript`.
 - JavaScript support: install [Node.js and npm][npm-install] and add
-  `--js-completer` when calling `./install.py`.
+  `--tern-completer` when calling `./install.py`.
 - Rust support: install [Rust][rust-install] and add `--rust-completer` when
   calling `./install.py`.
 - Java support: install [JDK8 (version 8 required)][jdk-install] and add
@@ -455,7 +455,7 @@ The following additional language support options are available:
 - TypeScript support: install [Node.js and npm][npm-install] then install the
   TypeScript SDK with `npm install -g typescript`.
 - JavaScript support: install [Node.js and npm][npm-install] and add
-  `--js-completer` when calling `install.py`.
+  `--tern-completer` when calling `install.py`.
 - Rust support: install [Rust][rust-install] and add `--rust-completer` when
   calling `install.py`.
 - Java support: install [JDK8 (version 8 required)][jdk-install] and add
@@ -529,7 +529,7 @@ The following additional language support options are available:
 - TypeScript support: install [Node.js and npm][npm-install] then install the
   TypeScript SDK with `npm install -g typescript`.
 - JavaScript support: install [Node.js and npm][npm-install] and add
-  `--js-completer` when calling `./install.py`.
+  `--tern-completer` when calling `./install.py`.
 - Rust support: install [Rust][rust-install] and add `--rust-completer` when
   calling `./install.py`.
 - Java support: install [JDK8 (version 8 required)][jdk-install] and add
